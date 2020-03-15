@@ -53,8 +53,8 @@ switch($cor):
     break;
 
     case "azul";
-    echo "Sua cor preferida é o azul";
-break;
+        echo "Sua cor preferida é o azul";
+    break;
 
 default:
 echo "Sua cor preferida não é vermelho, verde ou azul é $cor";
